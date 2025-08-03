@@ -2,8 +2,8 @@
 **Full-Stack Developer | Web Engineer**
 
 ![Profile views](https://komarev.com/ghpvc/?username=hoangvu-dev&color=blue)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/%E3%83%9B%E3%82%A2%E3%83%B3-%E3%83%B4-018323350/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://indiestudio.com)
 
 ---
 
@@ -47,8 +47,8 @@ I specialize in both front-end and back-end technologies, with a strong focus on
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvu-dev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvu-dev&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jame-hv&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jame-hv&layout=compact&theme=tokyonight)
 
 > “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
 
