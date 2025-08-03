@@ -1,7 +1,7 @@
 # Hi there, I'm Hoang Vu 👋  
 **Full-Stack Developer | Web Engineer**
 
-![Profile views](https://komarev.com/ghpvc/?username=hoangvu-dev&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=jame-hv&color=blue)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/%E3%83%9B%E3%82%A2%E3%83%B3-%E3%83%B4-018323350/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://indiestudio.com)
 
