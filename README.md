@@ -1,11 +1,19 @@
-# Hi there, I'm [Hoang Vu] 👋  
+# Hi there, I'm Hoang Vu 👋  
 **Full-Stack Developer | Web Engineer**
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=hoangvu-dev&color=blue)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ---
+
+## 🌐 Language
+[🇬🇧 English](#-english) | [🇯🇵 日本語](#-日本語)
+
+---
+
+<details open>
+<summary>🇬🇧 English</summary>
 
 ## 👨‍💻 About Me
 I’m a passionate Full-Stack Developer who loves building clean, scalable web applications.  
@@ -16,8 +24,6 @@ I specialize in both front-end and back-end technologies, with a strong focus on
 - 🌱 Learning more about serverless architecture & advanced AWS services
 - 🛠️ Interested in modern tools like **Remix**, **TailwindCSS**, and **Headless CMS**
 - 📫 Reach me at: `vudhoang2know@gmail.com`
-
----
 
 ## 🧰 Tech Stack
 
@@ -39,15 +45,39 @@ I specialize in both front-end and back-end technologies, with a strong focus on
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
 
-![Your github stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvu-dev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvu-dev&layout=compact&theme=tokyonight)
 
 > “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
 
+</details>
+
+---
+
+<details>
+<summary>🇯🇵 日本語</summary>
+
+## 👨‍💻 自己紹介
+こんにちは！私はフルスタック開発者の Hoang Vu です。  
+フロントエンドとバックエンドの両方に精通し、スケーラブルでパフォーマンスに優れたウェブアプリケーションを構築するのが得意です。
+
+- 💼 現在は **Laravel**、**Next.js**、**AWS** を使ったフルスタック開発に取り組んでいます  
+- 🚀 EコマースとCMSの専門家：**Shopify**、**WordPress**、**WooCommerce**
+- 🌱 サーバーレスアーキテクチャと高度なAWSサービスを学習中  
+- 🛠️ 興味がある技術：**Remix**、**TailwindCSS**、**ヘッドレスCMS**
+- 📫 連絡先: `vudhoang2know@gmail.com`
+
+## 🧰 技術スタック
+
+**言語とフレームワーク**  
+PHP、Laravel、JavaScript、TypeScript、Remix、Next.js
+
+**CMS & Eコマース**  
+WordPress、Shopify
+
+**クラウドとツール**  
+AWS、Docker、MySQL、Git
+
+</details>
